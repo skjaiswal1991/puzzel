@@ -1,0 +1,12 @@
+{
+  "name": "puzzel",
+  "displayName": "puzzel",
+  "expo": {
+    "name": "puzzel",
+    "slug": "puzzel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
