@@ -7,7 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
 import Start from './start'
-import Grid from './src/view/grid'
+import Grid from './src/view/screen/grid'
 import Label from './src/view/screen/label'
 const Stack = createStackNavigator();
 

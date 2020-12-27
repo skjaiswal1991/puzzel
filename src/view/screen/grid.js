@@ -1,10 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
 import { Platform, StyleSheet,SafeAreaView, FlatList, Text, View, Alert,TouchableOpacity,TouchableWithoutFeedback,Button } from "react-native";
-import Timer from './clock';
+import Timer from '../clock';
 import {FontAwesome5} from '@expo/vector-icons'
-import gridlist from './../statics/gridlist'
-import postionTrack from './../statics/postion'
+import gridlist from '../../statics/gridlist'
+import postionTrack from '../../statics/postion'
 
 import {Dialog,DialogFooter,DialogButton,DialogContent,DialogTitle} from 'react-native-popup-dialog'
 
